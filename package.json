@@ -18,5 +18,13 @@
   "license": "ISC",
   "devDependencies": {
     "http-server": "^0.10.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dayversonbsb/pwa-course.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dayversonbsb/pwa-course/issues"
+  },
+  "homepage": "https://github.com/dayversonbsb/pwa-course#readme"
 }
